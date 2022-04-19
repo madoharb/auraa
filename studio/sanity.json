@@ -1,11 +1,11 @@
 {
   "root": true,
   "api": {
-    "projectId": "ieasd5lg",
+    "projectId": "4muohv37",
     "dataset": "production"
   },
   "project": {
-    "name": "HULL",
+    "name": "Aura",
     "basePath": "/studio"
   },
   "plugins": [
